@@ -72,6 +72,7 @@ RunnableLambda Formatter
 Final Markdown Report
 </pre>
 
+![image alt](https://github.com/Ashuto321/llm-Based-Research-Orchestration-Engine/blob/e3288f1c3d0af7059aa4e0a5a2aaab134246a6c8/Output_Chain_flow.png)
 <hr>
 
 <h2>Core Concepts Used</h2>
