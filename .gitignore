@@ -1,0 +1,25 @@
+# Virtual Environment
+
+Lib/
+Scripts/
+Include/
+pyvenv.cfg
+
+# Environment Variables
+
+.env
+
+# Python Cache
+
+**pycache**/
+*/**pycache**/
+*.pyc
+
+# Output Files
+
+output/
+outputs/
+
+# VS Code
+
+.vscode/
