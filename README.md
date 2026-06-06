@@ -72,9 +72,6 @@ RunnableLambda Formatter
 Final Markdown Report
 </pre>
 
-![Uploading Screenshot 2026-06-06 103948.png…]()
-
-
 <hr>
 
 <h2>Core Concepts Used</h2>
