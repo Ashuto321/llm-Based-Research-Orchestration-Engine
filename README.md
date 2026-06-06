@@ -72,6 +72,9 @@ RunnableLambda Formatter
 Final Markdown Report
 </pre>
 
+![image alt](<img width="200" height="751" alt="Screenshot 2026-06-06 105649" src="https://github.com/user-attachments/assets/de8e75a3-601e-4ed1-b2f1-893657e8c7b0" />
+)
+
 <hr>
 
 <h2>Core Concepts Used</h2>
